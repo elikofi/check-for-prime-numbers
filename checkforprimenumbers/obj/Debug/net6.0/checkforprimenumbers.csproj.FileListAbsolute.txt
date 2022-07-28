@@ -1,0 +1,15 @@
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/bin/Debug/net6.0/checkforprimenumbers
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/bin/Debug/net6.0/checkforprimenumbers.deps.json
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/bin/Debug/net6.0/checkforprimenumbers.runtimeconfig.json
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/bin/Debug/net6.0/checkforprimenumbers.dll
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/bin/Debug/net6.0/checkforprimenumbers.pdb
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.csproj.AssemblyReference.cache
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.AssemblyInfoInputs.cache
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.AssemblyInfo.cs
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.csproj.CoreCompileInputs.cache
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.dll
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/refint/checkforprimenumbers.dll
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.pdb
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/checkforprimenumbers.genruntimeconfig.cache
+/Users/elijahamoako/Projects/checkforprimenumbers/checkforprimenumbers/obj/Debug/net6.0/ref/checkforprimenumbers.dll
